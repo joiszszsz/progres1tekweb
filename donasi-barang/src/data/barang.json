@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "nama": "Baju Bekas Layak Pakai",
+      "kategori": "Pakaian",
+      "lokasi": "Yogyakarta",
+      "deskripsi": "Baju bekas ukuran M masih bagus.",
+      "jadwal": "2024-12-20"
+    },
+    {
+      "id": 2,
+      "nama": "Buku Pelajaran SD",
+      "kategori": "Buku",
+      "lokasi": "Bandung",
+      "deskripsi": "Buku bekas untuk kelas 1-3 SD.",
+      "jadwal": "2024-12-22"
+    }
+  ]
+  
